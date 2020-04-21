@@ -1,0 +1,55 @@
+body
+.sayfanin-ortasina-almak-icin {
+    width:940px; 
+    margin:0 auto; 
+    position:relative;
+  }
+  .firima-seçim-kutusu{
+    position: relative;
+    top: -25px;
+    left: 35px;
+    width: 150px;
+    height: 350px;
+    border: 1px solid;
+    z-index: 1;
+    overflow: scroll;
+    
+  }
+  .binecegi-yer{
+    position: relative;
+    top: 35px;
+    left: 250px;
+    z-index: 1;
+  }
+  .inecegi-yer{
+    position: relative;
+    top: 50px;
+    left: 250px;
+    z-index: 1;
+    
+  }
+  .çizgi1{
+    width: 250px;
+    height: 0px;
+    border: 3px solid;
+    position: relative;
+    left: 242px;
+    top: -152px;
+  }
+  .çizgi2{
+    width: 250px;
+    height: 0px;
+    border: 3px solid;
+    position: relative;
+    left: 542px;
+    top: -158px;
+  }
+  #yazi{
+    margin:80px auto;
+    padding:20px;
+    width: 300px;
+    font-size:25px;
+    background: #34495e;
+    color:#ecf0f1;
+    border: solid 3px #16a085;
+}
